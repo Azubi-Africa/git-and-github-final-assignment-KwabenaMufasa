@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Pandas DataFrames             |  Working with Pandas DataFrames             | https://github.com/KwabenaMufasa/Pandas-Dataframes       |
+| 2 |  Caesar's Cipher Encryption             |  Creating a Cipher Encryption             | https://github.com/KwabenaMufasa/Caesar-s-Cipher-Encryption       |
+| 3 |  Mortgage Calculator             |  Creating a sample mortgage calcluator             | https://github.com/KwabenaMufasa/Mortgage-Calculator       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
